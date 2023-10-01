@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luisa-hlg
 - 👀 I’m interested in Novos desafios, Python e ervas naturais.
-- 🌱 I’m currently learning Python no cusro da Alura
+- 🌱 I’m currently learning Python no curso da Alura
 - 💞️ I’m looking to collaborate on projetos que me trarão novos desafios
 - 📫 How to reach me luisahlg.prog@gmail.com
 
